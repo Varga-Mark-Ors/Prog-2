@@ -1,0 +1,7 @@
+Anna,BARNA,true
+Barbara,SZOKE,false
+Tamara,VOROS,true
+Rebeka,SZOKE,false
+Tamara,VOROS,true
+Tamara,VOROS,true
+Regina,BARNA,true
