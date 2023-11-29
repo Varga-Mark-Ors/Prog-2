@@ -1,0 +1,5 @@
+Auto{rendszam='kocsi12', tipus='M5', marka='BMW', gyartasDatum=2020-12-10, tejessitmeny=180}
+Auto{rendszam='kocsi13', tipus='M6', marka='BMW', gyartasDatum=2021-11-15, tejessitmeny=150}
+Auto{rendszam='kocsi14', tipus='M6', marka='BMw', gyartasDatum=2022-04-23, tejessitmeny=90}
+Auto{rendszam='kocsi15', tipus='Juke', marka='Nissan', gyartasDatum=2010-05-11, tejessitmeny=120}
+Auto{rendszam='kocsi16', tipus='Golf', marka='Volkswagen', gyartasDatum=2011-07-26, tejessitmeny=150}
